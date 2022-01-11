@@ -1,3 +1,14 @@
-﻿## todo
+﻿# Word2Html online
+Convert word to html online
 
-1. 图片分离
+## online address
+[word2html](https://dxcqcv.github.io/word2html/index.html#/)
+
+English |  [简体中文](./README-zh_CN.md) 
+
+## feature
+1. support drag multiple docx files
+2. support download zip files
+
+## todo
+1. separate img and html
