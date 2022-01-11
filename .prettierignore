@@ -1,0 +1,8 @@
+﻿# .prettierignore
+
+node_modules
+app/dist
+.history
+yarn-error.log
+yarn.lock
+doc
